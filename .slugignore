@@ -1,0 +1,10 @@
+*.log
+*.tmp
+*.bak
+__pycache__/
+.git/
+.env
+tests/
+docs/
+nltk_data/
+node_modules/
