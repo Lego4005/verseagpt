@@ -1,17 +1,4 @@
-ai-generativelanguage
-fastapi
-cohere
-langchain_together
-langchain_huggingface
-langchain
-google-generativeai
-google-cloud-aiplatform
-langchain_google_vertexai
-langchain-google-genai
-langchain_community
-langchain-experimental
-langchain_cohere
-gpt-researcher
+# dependencies
 beautifulsoup4
 colorama
 duckduckgo_search
@@ -22,6 +9,7 @@ python-dotenv
 pyyaml
 uvicorn
 pydantic
+fastapi
 python-multipart
 markdown
 langchain>=0.2,<0.3
@@ -39,6 +27,7 @@ langchain_fireworks
 langchain_aws
 tiktoken
 tavily-python
+gpt-researcher
 arxiv
 PyMuPDF
 requests
@@ -62,6 +51,6 @@ langgraph
 weasyprint
 json5
 
-# Uncomment for testing
+# uncomment for testing
 # pytest
 # pytest-asyncio
